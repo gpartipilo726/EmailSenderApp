@@ -1,8 +1,8 @@
 # EmailSenderApp
 
-This app will allow you to send SMTP email's using SSL in Python. 
+This app will allow you to send SMTP email using SSL in Python. 
 
-*Important* In order to send mail, App password must be generated on email account. For gmail users, please see link below:
+*Important* In order to send mail, App password must be generated on your email account. For gmail users, please see link below:
 https://support.google.com/mail/answer/185833?hl=en-GB
 
 
